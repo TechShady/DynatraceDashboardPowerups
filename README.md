@@ -171,7 +171,7 @@ Example:
 
 ### USQL colors
 This powerup switches the color palette for a USQL chart . Change the title like this:
-`!PU(usqlcolor):vals=satisfied,tolerating,frustrated;colors=green,yellow,red`
+`!PU(usqlcolor):vals=satisfied,tolerated,frustrated;colors=green,yellow,red`
 
 Explanation:
 - `!PU(usqlcolor):` - indicates the powerup
